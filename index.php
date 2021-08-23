@@ -215,10 +215,10 @@
 
         <div class="row">
           <div class="col-lg-6" data-aos="fade-up">
-            <h3 class="resume-title">Sumary</h3>
+            <h3 class="resume-title">Summary</h3>
             <div class="resume-item pb-0">
-              <h4>Gabriel Ekanem</h4>
-              <p><em>Innovative and purpose-driven bweb developer with 3+ years of experience. Hoping on building the next big thing</em></p>
+              <h4>Matthew</h4>
+              <p><em>Innovative and purpose-driven web developer with 4+ years of experience. Hoping on building the next big thing</em></p>
               <ul>
                 <li>Uyo, Akwa Ibom State, Nigeria</li>
                 <li>(+234) 703-273-9465</li>
@@ -257,6 +257,47 @@
                 <li>Developing different business solutiions to help organisations and individuals simplify their daily work</li>
                 
               </ul>
+
+            </div>
+
+
+
+
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+            <h3 class="resume-title">Projects Built</h3>
+            <div class="resume-item">
+              <h4>hofaco.sch.ng</h4>
+              <h5>A school Portal </h5>
+              <p><em>September 2019 till date </em></p>
+              <ul>
+                <li>Design and development of the School Portal </li>
+                <li>Result Management System and fees Management System </li>
+                <li>School portal Manager</li>
+                
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>theconserv.org</h4>
+              <h5> An Ecommerce and a consultancy Website</h5>
+              
+              <ul>
+                <li> A Functional E-commerce website that sells virtual Courses similar to Udemy</li>
+              </ul>
+              
+            </div>
+          </div>
+        
+
+        <div class="resume-item">
+              <h4>fecamdsuniuyo.org.ng</h4>
+              <h5> A Student's Fellowship Website</h5>
+              
+              <ul>
+                <li> A Website designed and deveoped for fellowship of catholic Medical students </li>
+                <li> Past Question Bank for Medical students </li>
+                <li> User Registration System with dynamic image gallery </li>
+              </ul>
+              
             </div>
           </div>
         </div>
